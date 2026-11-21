@@ -1,0 +1,6 @@
+class,HYSYS components,source data,T (K),NRTL b12 MTBE->HC (K),NRTL b21 HC->MTBE (K),NRTL A12 (cal/mol),NRTL A21 (cal/mol),alpha,gamma_inf MTBE fitted,gamma_inf MTBE UNIFAC,P MAD fitted %,P MAD UNIFAC %,PR kij entered in HYSYS,PR kij note
+C4,"n-butane, isobutane",Clark et al. 1997 (virial vapour),298-323,-83.2,169.1,-165.3,336.0,0.3,1.29,1.46,0.55,2.67,0,not fitted (zero)
+C5,"isopentane, n-pentane",Clark et al. 1997 (virial vapour),298-323,-180.5,325.7,-358.7,647.2,0.3,1.43,1.53,0.44,1.52,0,not fitted (zero)
+C6+ paraffins and naphthenes,"2-methylpentane ... n-decane, MCH, MCP","Chamorro et al. 2004, MTBE+isooctane",313.15,166.1,-99.4,330.1,-197.5,0.3,1.15,1.45,0.06,6.01,0.006,regressed 0.0064
+Olefins,all alkenes,"Bennett et al. 1993, MTBE+1-heptene",311.15,148.0,-89.1,294.1,-177.1,0.3,1.13,1.39,0.34,4.03,0.010,Bennett et al. 1993 (PRSV)
+Aromatics,"benzene, toluene, xylenes, EB, C9+, C10 aromatics","Chamorro et al. 2004, MTBE+toluene",313.15,-54.5,100.6,-108.3,199.9,0.3,1.15,1.19,0.10,2.26,-0.005,regressed -0.0055

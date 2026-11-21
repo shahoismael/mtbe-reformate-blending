@@ -1,0 +1,36 @@
+Aspen HYSYS V11 case files (.hsc) in this folder
+
+01_SurrogateA_D86utility_NRTL-UNIFAC.hsc
+    Route 1: surrogate A, D86 utility, NRTL with UNIFAC-estimated MTBE parameters (Tables 3-5, S1-S3)
+02_SurrogateA_D86utility_PR-kij0.hsc
+    Route 1b: surrogate A, D86 utility, Peng-Robinson kij = 0 (Table S5)
+03_Assay_OilManager_D86utility.hsc
+    Route 2: Oil Manager assay of the measured D86 curve, D86 utility (Table S6)
+04_SurrogateA_EFV_NRTL-UNIFAC.hsc
+    Route 3: surrogate A, equilibrium flash vaporization, NRTL (Table S7)
+05_Assay_OilManager_EFV_NRTL.hsc
+    Route 4: assay, equilibrium flash vaporization, NRTL (Table S8)
+06_SurrogateA_Batch_NRTL-UNIFAC.hsc
+    Batch route: surrogate A, NRTL with UNIFAC-estimated parameters (Table S9)
+07_SurrogateA_Batch_NRTL-fitted.hsc
+    Batch route: surrogate A, NRTL with fitted MTBE parameters (Table S15)
+08_SurrogateA_Batch_PR-kij0.hsc
+    Batch route: surrogate A, Peng-Robinson kij = 0 (Table S11)
+09_SurrogateA_Batch_PR-fitted.hsc
+    Batch route: surrogate A, Peng-Robinson with fitted kij (Table S15)
+10_SurrogateB_Batch_NRTL-UNIFAC.hsc
+    Batch route: surrogate B, NRTL with UNIFAC-estimated parameters (Table S10)
+11_SurrogateB_Batch_NRTL-fitted.hsc
+    Batch route: surrogate B, NRTL with fitted MTBE parameters (Table S15)
+12_SurrogateB_Batch_PR-kij0.hsc
+    Batch route: surrogate B, Peng-Robinson kij = 0 (Table S11)
+13_SurrogateB_Batch_PR-fitted.hsc
+    Batch route: surrogate B, Peng-Robinson with fitted kij (Table S15)
+
+superseded/ (kept for transparency only)
+S1_SurrogateA_Batch_NRTL_early-version-22DMB.hsc
+    Earlier surrogate A batch case (2,2-dimethylbutane in place of 2-methyl-2-butene); not used for reported results
+S2_SurrogateB_Batch_NRTL_early-tuning-version.hsc
+    Earlier surrogate B batch case (earlier tuning stage, base RVP 49.06 kPa); not used for reported results
+
+Each batch file can be identified from HYSYS_case_check_8_files.xlsx (TVP at 0 and 20 vol% MTBE).
