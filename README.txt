@@ -2,13 +2,13 @@ Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline:
 a specification-based simulation study
 Data, calculation files and Aspen HYSYS cases (version 1.0)
 
-Serwan Ibrahem Abdulkhader
+Serwan Ibrahem Abdulkhader, Shaho Ismael Hassen
 Chemical and Petrochemical Engineering Department, College of Engineering,
-Salahaddin University-Erbil, Kurdistan Region, Iraq (serwan.abdulkhader@su.edu.krd)
+Salahaddin University-Erbil, Kurdistan Region, Iraq (serwan.abdulkhader@su.edu.krd, shaho.hassen@su.edu.krd)
 License: CC BY 4.0
 
 HOW TO CITE
-  Abdulkhader, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline:
+  Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline:
   data and simulation files [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23438232
 
 All section, table and figure numbers below refer to the article. Supplementary tables (S1-S16) are in

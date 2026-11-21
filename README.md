@@ -4,9 +4,9 @@ Data, Aspen HYSYS cases and Python scripts for:
 
 **Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: a specification-based simulation study**
 
-Serwan Ibrahem Abdulkhader
+Serwan Ibrahem Abdulkhader, Shaho Ismael Hassen
 Chemical and Petrochemical Engineering Department, College of Engineering, Salahaddin University-Erbil, Kurdistan Region, Iraq
-serwan.abdulkhader@su.edu.krd
+serwan.abdulkhader@su.edu.krd, shaho.hassen@su.edu.krd
 
 Zenodo: https://doi.org/10.5281/zenodo.23438232
 
@@ -39,7 +39,7 @@ Run scripts from the repository root.
 
 ## Citation
 
-Abdulkhader, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data and simulation files [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23438232
+Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data and simulation files [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23438232
 
 ## License
 
