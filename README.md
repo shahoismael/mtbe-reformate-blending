@@ -8,7 +8,7 @@ Serwan Ibrahem Abdulkhader, Shaho Ismael Hassen
 Chemical and Petrochemical Engineering Department, College of Engineering, Salahaddin University-Erbil, Kurdistan Region, Iraq
 serwan.abdulkhader@su.edu.krd, shaho.hassen@su.edu.krd
 
-Zenodo: https://doi.org/10.5281/zenodo.23438232
+Zenodo: https://doi.org/10.5281/zenodo.24427384
 
 ## Contents
 
@@ -39,7 +39,7 @@ Run scripts from the repository root.
 
 ## Citation
 
-Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data and simulation files [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23438232
+Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data and simulation files [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24427384
 
 ## License
 

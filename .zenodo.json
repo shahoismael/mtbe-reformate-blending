@@ -1,0 +1,28 @@
+{
+  "upload_type": "dataset",
+  "title": "Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, Aspen HYSYS cases and Python scripts",
+  "creators": [
+    {
+      "name": "Abdulkhader, Serwan Ibrahem",
+      "affiliation": "Chemical and Petrochemical Engineering Department, College of Engineering, Salahaddin University-Erbil",
+      "orcid": "0000-0003-1411-6322"
+    },
+    {
+      "name": "Hassen, Shaho Ismael",
+      "affiliation": "Chemical and Petrochemical Engineering Department, College of Engineering, Salahaddin University-Erbil",
+      "orcid": "0000-0002-6403-7748"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "MTBE",
+    "catalytic reformate",
+    "gasoline specification",
+    "gasoline volatility",
+    "octane number",
+    "process simulation",
+    "Aspen HYSYS",
+    "fuel blending"
+  ]
+}
