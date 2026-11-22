@@ -1,0 +1,63 @@
+{
+  "source": "Kurdistan Region gasoline specification (2022), as reported by Younis et al. (2023), ref [3]",
+  "grades": {
+    "regular": {
+      "RON_min": 89,
+      "MON_min": 80,
+      "sulfur_ppm_max": 100
+    },
+    "premium": {
+      "RON_min": 92,
+      "MON_min": 82,
+      "sulfur_ppm_max": 100
+    },
+    "super": {
+      "RON_min": 95,
+      "MON_min": 85,
+      "sulfur_ppm_max": 50
+    }
+  },
+  "common": {
+    "FBP_C_max": 210,
+    "aromatics_vol_pct_max": 35,
+    "olefins_vol_pct_max": 18,
+    "RVP_kPa": {
+      "summer": [
+        44,
+        60
+      ],
+      "winter": [
+        49,
+        82
+      ]
+    },
+    "density_g_cm3": {
+      "table": [
+        0.71,
+        0.775
+      ],
+      "text": [
+        0.715,
+        0.77
+      ]
+    },
+    "oxygen_wt_pct_max": 3.7
+  },
+  "performance_criteria": {
+    "EN228_summer_classA": {
+      "E70_vol_pct": [
+        20,
+        48
+      ],
+      "E100_vol_pct": [
+        46,
+        71
+      ],
+      "E150_vol_pct_min": 75
+    },
+    "ASTM_D4814_classes_AA_A": {
+      "T10_C_max": 70,
+      "DI_F_max": 1250
+    }
+  }
+}

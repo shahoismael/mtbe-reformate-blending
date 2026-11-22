@@ -1,0 +1,123 @@
+{
+  "N": 200000,
+  "seed": 1,
+  "inputs": {
+    "RON_base": 91.0,
+    "RON_reproducibility": 0.7,
+    "MON_base_range": [
+      79.0,
+      84.0
+    ],
+    "blending_sources": [
+      [
+        "Ershov et al. [30], 91 wt% reformate",
+        [
+          117,
+          117
+        ],
+        [
+          104,
+          104
+        ]
+      ],
+      [
+        "Kopp et al. [40], AQIRP Base 2",
+        [
+          118,
+          118
+        ],
+        [
+          103,
+          103
+        ]
+      ],
+      [
+        "Hamid and Ali [10], reformate",
+        [
+          125,
+          130
+        ],
+        null
+      ],
+      [
+        "Hamid and Ali [10], Gasoline A",
+        [
+          126,
+          133
+        ],
+        [
+          111,
+          113
+        ]
+      ],
+      [
+        "Hamid and Ali [10], Gasoline B",
+        [
+          122,
+          125
+        ],
+        [
+          103,
+          106
+        ]
+      ],
+      [
+        "Mustafa [41], 70% reformate",
+        [
+          122,
+          123
+        ],
+        [
+          121,
+          121
+        ]
+      ]
+    ]
+  },
+  "bounds": {
+    "regular": {
+      "median": 0.0,
+      "p5": 0.0,
+      "p95": 2.59,
+      "P_no_MTBE": 0.799,
+      "P_above_O2_limit": 0.0,
+      "reference_case": 0.0
+    },
+    "premium": {
+      "median": 3.96,
+      "p5": 2.05,
+      "p95": 10.59,
+      "P_no_MTBE": 0.0,
+      "P_above_O2_limit": 0.0,
+      "reference_case": 3.57
+    },
+    "super": {
+      "median": 14.88,
+      "p5": 10.5,
+      "p95": 22.9,
+      "P_no_MTBE": 0.0,
+      "P_above_O2_limit": 0.127,
+      "reference_case": 14.29
+    }
+  },
+  "spearman": {
+    "regular": {
+      "base RON": 0.0,
+      "base MON": -0.699,
+      "blending RON": -0.002,
+      "blending MON": -0.013
+    },
+    "premium": {
+      "base RON": -0.328,
+      "base MON": -0.754,
+      "blending RON": -0.202,
+      "blending MON": -0.137
+    },
+    "super": {
+      "base RON": -0.127,
+      "base MON": -0.666,
+      "blending RON": -0.335,
+      "blending MON": -0.386
+    }
+  }
+}

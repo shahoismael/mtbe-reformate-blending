@@ -1,0 +1,101 @@
+{
+  "surrogate": "B",
+  "R_settings": {
+    "R_blend": 0.5344,
+    "R_calibrated": 3.813,
+    "R_0": 0.0
+  },
+  "measured_reference": {
+    "dT10_10vol_C": [
+      -1.0,
+      -1.5,
+      -0.6
+    ],
+    "dT50_10vol_C": [
+      -12.0,
+      -4.5,
+      -7.2
+    ],
+    "dE70_per_vol_pct": [
+      0.33,
+      0.55,
+      0.56,
+      0.4
+    ],
+    "sources": "Hamid and Ali [10]; Mustafa [41]; Kopp et al. [40] (11 vol%)"
+  },
+  "cases": {
+    "nrtl_R_blend": {
+      "dT10_10vol_C": -4.5,
+      "dT50_10vol_C": -7.89,
+      "dE70_per_vol_pct_0to10": 0.397,
+      "dE70_per_vol_pct_0to15": 0.46,
+      "E70_at_20vol": 19.15,
+      "first_vol_E70_ge_20": null,
+      "first_vol_E100_ge_46": 11.0,
+      "first_vol_T10_le_70": 5.0,
+      "first_vol_DI_le_1250": 8.0,
+      "max_running_max_removal_vol_pct": 0.56
+    },
+    "nrtl_R_calibrated": {
+      "dT10_10vol_C": -5.38,
+      "dT50_10vol_C": -6.14,
+      "dE70_per_vol_pct_0to10": 0.728,
+      "dE70_per_vol_pct_0to15": 0.885,
+      "E70_at_20vol": 27.41,
+      "first_vol_E70_ge_20": 14.0,
+      "first_vol_E100_ge_46": 14.0,
+      "first_vol_T10_le_70": 4.0,
+      "first_vol_DI_le_1250": 9.0,
+      "max_running_max_removal_vol_pct": 0.5
+    },
+    "nrtl_R_0": {
+      "dT10_10vol_C": -2.63,
+      "dT50_10vol_C": -12.89,
+      "dE70_per_vol_pct_0to10": 0.198,
+      "dE70_per_vol_pct_0to15": 0.213,
+      "E70_at_20vol": 12.94,
+      "first_vol_E70_ge_20": null,
+      "first_vol_E100_ge_46": 9.0,
+      "first_vol_T10_le_70": 9.0,
+      "first_vol_DI_le_1250": 6.0,
+      "max_running_max_removal_vol_pct": 0.64
+    },
+    "ideal_R_blend": {
+      "dT10_10vol_C": -3.8,
+      "dT50_10vol_C": -8.29,
+      "dE70_per_vol_pct_0to10": 0.319,
+      "dE70_per_vol_pct_0to15": 0.37,
+      "E70_at_20vol": 17.06,
+      "first_vol_E70_ge_20": null,
+      "first_vol_E100_ge_46": 11.0,
+      "first_vol_T10_le_70": 6.0,
+      "first_vol_DI_le_1250": 8.0,
+      "max_running_max_removal_vol_pct": 0.56
+    },
+    "ideal_R_calibrated": {
+      "dT10_10vol_C": -4.41,
+      "dT50_10vol_C": -6.33,
+      "dE70_per_vol_pct_0to10": 0.526,
+      "dE70_per_vol_pct_0to15": 0.719,
+      "E70_at_20vol": 24.95,
+      "first_vol_E70_ge_20": 16.0,
+      "first_vol_E100_ge_46": 14.0,
+      "first_vol_T10_le_70": 5.0,
+      "first_vol_DI_le_1250": 9.0,
+      "max_running_max_removal_vol_pct": 0.5
+    },
+    "ideal_R_0": {
+      "dT10_10vol_C": -2.12,
+      "dT50_10vol_C": -12.58,
+      "dE70_per_vol_pct_0to10": 0.153,
+      "dE70_per_vol_pct_0to15": 0.167,
+      "E70_at_20vol": 11.99,
+      "first_vol_E70_ge_20": null,
+      "first_vol_E100_ge_46": 9.0,
+      "first_vol_T10_le_70": 11.0,
+      "first_vol_DI_le_1250": 6.0,
+      "max_running_max_removal_vol_pct": 0.64
+    }
+  }
+}

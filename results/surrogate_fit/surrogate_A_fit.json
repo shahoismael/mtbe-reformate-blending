@@ -1,0 +1,37 @@
+{
+  "surrogate": "A",
+  "weights": {
+    "D86": 1.0,
+    "RVP": 3.0,
+    "density": 2.0,
+    "class": 4.0,
+    "reg": 0.3
+  },
+  "density_offset_kg_m3": 6.63,
+  "objective": 35.81448919635279,
+  "optimizer_message": "Optimization terminated successfully",
+  "fitted_vol_pct": {
+    "n-Butane": 8.019,
+    "i-Pentane": 0.0,
+    "n-Pentane": 0.0,
+    "2-Methyl-2-butene": 0.616,
+    "2-Methylpentane": 8.799,
+    "1-Hexene": 7.666,
+    "n-Hexane": 0.672,
+    "Benzene": 1.5,
+    "2-Methylhexane": 9.468,
+    "n-Heptane": 0.0,
+    "2,2,4-Trimethylpentane": 1.836,
+    "Methylcyclohexane": 1.65,
+    "2,5-Dimethylhexane": 3.193,
+    "Toluene": 9.315,
+    "1-Octene": 0.05,
+    "n-Octane": 0.0,
+    "Ethylbenzene": 0.795,
+    "m-Xylene": 4.295,
+    "2-Methyloctane": 17.008,
+    "n-Nonane": 4.705,
+    "1,2,4-Trimethylbenzene": 13.125,
+    "1,2,4,5-Tetramethylbenzene": 7.289
+  }
+}

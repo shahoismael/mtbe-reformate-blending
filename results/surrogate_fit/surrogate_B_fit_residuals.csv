@@ -1,0 +1,14 @@
+Property,Measured,Original (HYSYS),Original (this model),Fitted (this model),Fitted - measured
+D86 IBP (degC),43.2,,31.3,26.3,-16.9
+D86 T10 (degC),72.3,57.3,57.3,72.1,-0.2
+D86 T30 (degC),93.6,91.8,91.8,93.7,0.1
+D86 T50 (degC),114.4,112.5,112.6,114.4,-0.0
+D86 T70 (degC),138.2,136.7,136.5,138.1,-0.1
+D86 T90 (degC),167.7,170.2,171.8,167.7,0.0
+RVP (kPa),49.0,49.4,49.1,49.0,-0.0
+Density 15 degC (kg/m3),762.8,763.5,763.5,762.9,0.1
+n-Paraffin (vol%),13.53,,15.4,13.55,0.02
+iso-Paraffin (vol%),40.49,,36.4,40.5,0.01
+Olefin (vol%),8.46,,8.6,8.47,0.01
+Naphthene (vol%),1.58,,1.6,1.59,0.01
+Aromatic (vol%),34.65,,38.0,35.89,1.24

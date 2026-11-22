@@ -1,6 +1,8 @@
 {
   "upload_type": "dataset",
-  "title": "Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, Aspen HYSYS cases and Python scripts",
+  "title": "Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, open-source models and Aspen HYSYS cases",
+  "version": "2.0",
+  "description": "Version 2.0 replaces the manual HYSYS workflow of version 1.0 with an open-source Python workflow: surrogate fitting to the measured D86 curve, RVP and density; MTBE vapour pressure with NRTL parameters fitted to binary VLE data; a D86 batch-distillation model with reflux calibrated on measured MTBE blends; Monte Carlo octane bounds; MTBE blending windows; figures and tables. The version 1.0 HYSYS cases and results are kept in cases/hysys and data/raw.",
   "creators": [
     {
       "name": "Abdulkhader, Serwan Ibrahem",
@@ -23,6 +25,11 @@
     "octane number",
     "process simulation",
     "Aspen HYSYS",
-    "fuel blending"
+    "fuel blending",
+    "ASTM D86",
+    "NRTL"
+  ],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.24427384", "relation": "isNewVersionOf", "scheme": "doi"}
   ]
 }

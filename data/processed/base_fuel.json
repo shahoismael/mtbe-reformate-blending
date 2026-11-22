@@ -1,0 +1,87 @@
+{
+  "source": "Abdulwahhab et al. (2025), J. Pet. Res. Stud. 15(2) 74-95, Table 1, doi:10.52716/jprs.v15i2.935 (CC BY 4.0)",
+  "measured": {
+    "density_kg_m3": {
+      "value": 762.8,
+      "temperature_C": 15.6,
+      "method": "ASTM D4052"
+    },
+    "api_gravity": 54,
+    "vapor_pressure_kPa": {
+      "value": 49.0,
+      "method": "ASTM D5191 (DVPE)"
+    },
+    "RON": {
+      "value": 91.0,
+      "method": "ASTM D2699"
+    },
+    "sulfur_mg_kg": {
+      "value": 0.6,
+      "method": "ASTM D7039"
+    },
+    "D86": {
+      "method": "ASTM D86",
+      "evaporated_vol_pct": [
+        0,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90
+      ],
+      "temperature_C": [
+        43.2,
+        65.5,
+        72.3,
+        83.4,
+        93.6,
+        103.3,
+        114.4,
+        126.0,
+        138.2,
+        151.0,
+        167.7
+      ],
+      "end_point_C": 192.0,
+      "recovery_vol_pct": 93.8,
+      "residue_vol_pct": 5.7,
+      "loss_vol_pct": 0.5
+    },
+    "composition_vol_pct": {
+      "method": "ASTM D6729",
+      "n_paraffins": 13.53,
+      "iso_paraffins": 40.49,
+      "olefins": 8.46,
+      "naphthenes": 1.58,
+      "aromatics": 34.65,
+      "unknown": 1.28
+    }
+  },
+  "assumed": {
+    "MON": 82.0,
+    "LHV_MJ_kg": 43.0,
+    "note": "not measured; used for relative changes only"
+  },
+  "MTBE": {
+    "CAS": "1634-04-4",
+    "nbp_C": 55.2,
+    "density_kg_m3": 745.0,
+    "oxygen_mass_fraction": 0.1815,
+    "LHV_MJ_kg": 35.17,
+    "blending_RON": 119.0,
+    "blending_RON_range": [
+      117.0,
+      121.0
+    ],
+    "blending_MON": 103.0
+  },
+  "second_samples": {
+    "RON_88p5_same_refinery": "Dawood and Ismayyir (2013), ref [2]",
+    "sample_ref18": "Mohammed and Abdul-Raheem (2007), ref [18]"
+  }
+}

@@ -1,0 +1,5 @@
+Window,Lower bound (vol% MTBE),Set by,Range / uncertainty,Upper bound (vol% MTBE),Set by
+"Compliance, regular",2.6,aromatics (unknown counted as aromatic),octane 5-95%: 0.0-2.6; P(> O2 limit) 0.00,20.8,oxygen 3.7 wt%
+"Compliance, premium",4.0,octane,octane 5-95%: 2.0-10.6; P(> O2 limit) 0.00,20.8,oxygen 3.7 wt%
+"Compliance, super",14.9,octane,octane 5-95%: 10.5-22.9; P(> O2 limit) 0.13,20.8,oxygen 3.7 wt%
+"Performance (E100, DI)",11.0,E100 >= 46 vol% / DI <= 1250 F (main case),"all cases: E100 9-14, DI 5-9",20.8,oxygen 3.7 wt%

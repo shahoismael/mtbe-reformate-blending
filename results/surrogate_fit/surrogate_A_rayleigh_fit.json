@@ -1,0 +1,40 @@
+{
+  "surrogate": "A",
+  "d86_model": "flask + 1 stage, ideal liquid",
+  "reflux_ratio_R": 20.0,
+  "R_at_bound": true,
+  "weights": {
+    "D86": 1.0,
+    "RVP": 3.0,
+    "density": 2.0,
+    "class": 4.0,
+    "reg": 0.3
+  },
+  "density_offset_kg_m3": 6.63,
+  "objective": 67.35152680967587,
+  "optimizer_message": "Optimization terminated successfully",
+  "fitted_vol_pct": {
+    "n-Butane": 8.003,
+    "i-Pentane": 0.0,
+    "n-Pentane": 0.0,
+    "2-Methyl-2-butene": 1.6,
+    "2-Methylpentane": 6.342,
+    "1-Hexene": 6.672,
+    "n-Hexane": 1.476,
+    "Benzene": 1.5,
+    "2-Methylhexane": 13.989,
+    "n-Heptane": 0.0,
+    "2,2,4-Trimethylpentane": 5.383,
+    "Methylcyclohexane": 1.709,
+    "2,5-Dimethylhexane": 0.322,
+    "Toluene": 14.012,
+    "1-Octene": 0.0,
+    "n-Octane": 0.0,
+    "Ethylbenzene": 3.862,
+    "m-Xylene": 4.484,
+    "2-Methyloctane": 14.19,
+    "n-Nonane": 3.814,
+    "1,2,4-Trimethylbenzene": 6.038,
+    "1,2,4,5-Tetramethylbenzene": 6.604
+  }
+}

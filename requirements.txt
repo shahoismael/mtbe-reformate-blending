@@ -1,0 +1,9 @@
+numpy
+scipy
+openpyxl
+pandas
+matplotlib
+thermo==0.6.1
+chemicals==1.5.2
+SALib
+pytest

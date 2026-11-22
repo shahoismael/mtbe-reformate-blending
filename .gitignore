@@ -1,7 +1,9 @@
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+.pytest_cache/
 ~$*
-*.tmp
 .DS_Store
 Thumbs.db
+# not public: manuscript drafts and internal reports
+manuscript/
+docs/

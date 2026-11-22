@@ -1,0 +1,370 @@
+{
+  "surrogate_A": [
+    {
+      "component": "n-Butane",
+      "nbp_C": -0.5,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 2,
+      "final_vol_pct": 5
+    },
+    {
+      "component": "i-Pentane",
+      "nbp_C": 27.8,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 8,
+      "final_vol_pct": 4.6
+    },
+    {
+      "component": "n-Pentane",
+      "nbp_C": 36.1,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 0.9
+    },
+    {
+      "component": "2-Methyl-2-butene",
+      "nbp_C": 38.6,
+      "class": "Olefin",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 8
+    },
+    {
+      "component": "2-Methylpentane",
+      "nbp_C": 60.3,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 5,
+      "final_vol_pct": 7.6
+    },
+    {
+      "component": "1-Hexene",
+      "nbp_C": 63.5,
+      "class": "Olefin",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 0.3
+    },
+    {
+      "component": "n-Hexane",
+      "nbp_C": 68.7,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 2,
+      "final_vol_pct": 1.1
+    },
+    {
+      "component": "Benzene",
+      "nbp_C": 80.1,
+      "class": "Aromatic",
+      "initial_vol_pct": 1.5,
+      "final_vol_pct": 1.5
+    },
+    {
+      "component": "2-Methylhexane",
+      "nbp_C": 90,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 7,
+      "final_vol_pct": 5.3
+    },
+    {
+      "component": "n-Heptane",
+      "nbp_C": 98.4,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 0.3
+    },
+    {
+      "component": "2,2,4-Trimethylpentane",
+      "nbp_C": 99.2,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 6,
+      "final_vol_pct": 4.8
+    },
+    {
+      "component": "Methylcyclohexane",
+      "nbp_C": 100.9,
+      "class": "Naphthene",
+      "initial_vol_pct": 1.58,
+      "final_vol_pct": 1.7
+    },
+    {
+      "component": "2,5-Dimethylhexane",
+      "nbp_C": 109.1,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 6,
+      "final_vol_pct": 4.5
+    },
+    {
+      "component": "Toluene",
+      "nbp_C": 110.6,
+      "class": "Aromatic",
+      "initial_vol_pct": 9,
+      "final_vol_pct": 6.3
+    },
+    {
+      "component": "1-Octene",
+      "nbp_C": 121.3,
+      "class": "Olefin",
+      "initial_vol_pct": 2.46,
+      "final_vol_pct": 0.3
+    },
+    {
+      "component": "n-Octane",
+      "nbp_C": 125.7,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 2,
+      "final_vol_pct": 0.8
+    },
+    {
+      "component": "Ethylbenzene",
+      "nbp_C": 136.2,
+      "class": "Aromatic",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 2
+    },
+    {
+      "component": "m-Xylene",
+      "nbp_C": 139.1,
+      "class": "Aromatic",
+      "initial_vol_pct": 9,
+      "final_vol_pct": 7.6
+    },
+    {
+      "component": "2-Methyloctane",
+      "nbp_C": 143.3,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 8.49,
+      "final_vol_pct": 12.5
+    },
+    {
+      "component": "n-Nonane",
+      "nbp_C": 150.8,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 1.53,
+      "final_vol_pct": 4.9
+    },
+    {
+      "component": "1,2,4-Trimethylbenzene",
+      "nbp_C": 169.4,
+      "class": "Aromatic",
+      "initial_vol_pct": 9,
+      "final_vol_pct": 11.7
+    },
+    {
+      "component": "1,2,4,5-Tetramethylbenzene",
+      "nbp_C": 196.8,
+      "class": "Aromatic",
+      "initial_vol_pct": 4.43,
+      "final_vol_pct": 8.3
+    }
+  ],
+  "surrogate_B": [
+    {
+      "component": "isobutane",
+      "nbp_C": -11.7,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 1.2,
+      "final_vol_pct": 1.2
+    },
+    {
+      "component": "n-butane",
+      "nbp_C": -0.5,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 3.5
+    },
+    {
+      "component": "isopentane",
+      "nbp_C": 27.8,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 6,
+      "final_vol_pct": 6
+    },
+    {
+      "component": "2-methyl-1-butene",
+      "nbp_C": 31.1,
+      "class": "Olefin",
+      "initial_vol_pct": 1,
+      "final_vol_pct": 1
+    },
+    {
+      "component": "n-pentane",
+      "nbp_C": 36.1,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 1.6,
+      "final_vol_pct": 1.6
+    },
+    {
+      "component": "trans-2-pentene",
+      "nbp_C": 36.3,
+      "class": "Olefin",
+      "initial_vol_pct": 1.4,
+      "final_vol_pct": 1.4
+    },
+    {
+      "component": "2-methyl-2-butene",
+      "nbp_C": 38.5,
+      "class": "Olefin",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 3
+    },
+    {
+      "component": "3-methylpentane",
+      "nbp_C": 63.2,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 6.5,
+      "final_vol_pct": 5.5
+    },
+    {
+      "component": "2-methyl-2-pentene",
+      "nbp_C": 67.3,
+      "class": "Olefin",
+      "initial_vol_pct": 3.2,
+      "final_vol_pct": 3.2
+    },
+    {
+      "component": "n-hexane",
+      "nbp_C": 68.7,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 1.5,
+      "final_vol_pct": 1.5
+    },
+    {
+      "component": "methylcyclopentane",
+      "nbp_C": 71.8,
+      "class": "Naphthene",
+      "initial_vol_pct": 0.5,
+      "final_vol_pct": 0.5
+    },
+    {
+      "component": "benzene",
+      "nbp_C": 80.1,
+      "class": "Aromatic",
+      "initial_vol_pct": 1.5,
+      "final_vol_pct": 1.5
+    },
+    {
+      "component": "2,3-dimethylpentane",
+      "nbp_C": 89.8,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 5,
+      "final_vol_pct": 5.5
+    },
+    {
+      "component": "n-heptane",
+      "nbp_C": 98.4,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 0.8,
+      "final_vol_pct": 0.8
+    },
+    {
+      "component": "methylcyclohexane",
+      "nbp_C": 100.9,
+      "class": "Naphthene",
+      "initial_vol_pct": 1.1,
+      "final_vol_pct": 1.1
+    },
+    {
+      "component": "2,4-dimethylhexane",
+      "nbp_C": 109.4,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 5,
+      "final_vol_pct": 5
+    },
+    {
+      "component": "toluene",
+      "nbp_C": 110.6,
+      "class": "Aromatic",
+      "initial_vol_pct": 6.3,
+      "final_vol_pct": 6.3
+    },
+    {
+      "component": "2,3,4-trimethylpentane",
+      "nbp_C": 113.4,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 4,
+      "final_vol_pct": 4
+    },
+    {
+      "component": "3-methylheptane",
+      "nbp_C": 118.9,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 4.3,
+      "final_vol_pct": 4.3
+    },
+    {
+      "component": "n-octane",
+      "nbp_C": 125.6,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 1,
+      "final_vol_pct": 1
+    },
+    {
+      "component": "ethylbenzene",
+      "nbp_C": 136.2,
+      "class": "Aromatic",
+      "initial_vol_pct": 2,
+      "final_vol_pct": 2
+    },
+    {
+      "component": "p-xylene",
+      "nbp_C": 138.3,
+      "class": "Aromatic",
+      "initial_vol_pct": 2.6,
+      "final_vol_pct": 2.6
+    },
+    {
+      "component": "m-xylene",
+      "nbp_C": 139.1,
+      "class": "Aromatic",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 3
+    },
+    {
+      "component": "2-methyloctane",
+      "nbp_C": 143,
+      "class": "iso-Paraffin",
+      "initial_vol_pct": 9,
+      "final_vol_pct": 4.9
+    },
+    {
+      "component": "o-xylene",
+      "nbp_C": 144.4,
+      "class": "Aromatic",
+      "initial_vol_pct": 2,
+      "final_vol_pct": 2
+    },
+    {
+      "component": "n-nonane",
+      "nbp_C": 150.8,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 4,
+      "final_vol_pct": 4
+    },
+    {
+      "component": "1,3,5-trimethylbenzene",
+      "nbp_C": 164.7,
+      "class": "Aromatic",
+      "initial_vol_pct": 3,
+      "final_vol_pct": 3
+    },
+    {
+      "component": "1,2,4-trimethylbenzene",
+      "nbp_C": 169.4,
+      "class": "Aromatic",
+      "initial_vol_pct": 8.6,
+      "final_vol_pct": 6.6
+    },
+    {
+      "component": "n-decane",
+      "nbp_C": 174.1,
+      "class": "n-Paraffin",
+      "initial_vol_pct": 1.5,
+      "final_vol_pct": 3
+    },
+    {
+      "component": "1,2,3,5-tetramethylbenzene",
+      "nbp_C": 198,
+      "class": "Aromatic",
+      "initial_vol_pct": 6.4,
+      "final_vol_pct": 11
+    }
+  ]
+}

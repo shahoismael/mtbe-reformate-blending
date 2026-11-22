@@ -1,0 +1,4 @@
+grade,median vol%,p5,p95,P(no MTBE needed),P(> 20.8 vol%),"reference case vol% (MON 82, bRON 119, bMON 103)"
+regular,0.0,0.0,2.6,0.799,0.0,0.0
+premium,4.0,2.0,10.6,0.0,0.0,3.6
+super,14.9,10.5,22.9,0.0,0.127,14.3
