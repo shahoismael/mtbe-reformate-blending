@@ -35,12 +35,12 @@ O2_LIMIT_VOL = 20.8          # vol% MTBE at 3.7 wt% oxygen (article Section 2.5)
 
 # (source, blending RON range, blending MON range) measured in reformate-rich bases (article Table 5)
 BLENDING = [
-    ("Ershov et al. [30], 91 wt% reformate", (117, 117), (104, 104)),
-    ("Kopp et al. [40], AQIRP Base 2", (118, 118), (103, 103)),
-    ("Hamid and Ali [10], reformate", (125, 130), None),
-    ("Hamid and Ali [10], Gasoline A", (126, 133), (111, 113)),
-    ("Hamid and Ali [10], Gasoline B", (122, 125), (103, 106)),
-    ("Mustafa [41], 70% reformate", (122, 123), (121, 121)),
+    ("Ershov et al. [18], 91 wt% reformate", (117, 117), (104, 104)),
+    ("Kopp et al. [22], AQIRP Base 2", (118, 118), (103, 103)),
+    ("Hamid and Ali [8], reformate", (125, 130), None),
+    ("Hamid and Ali [8], Gasoline A", (126, 133), (111, 113)),
+    ("Hamid and Ali [8], Gasoline B", (122, 125), (103, 106)),
+    ("Mustafa [23], 70% reformate", (122, 123), (121, 121)),
 ]
 GRADES = {"regular": (89, 80), "premium": (92, 82), "super": (95, 85)}
 

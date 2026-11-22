@@ -34,7 +34,7 @@ DT = 0.1            # degC grid for the delta correction
 # Published measured changes (article Table 5): dT10 and dT50 at 10-11 vol% MTBE, E70 rate
 MEASURED = {"dT10_10vol_C": [-1.0, -1.5, -0.6], "dT50_10vol_C": [-12.0, -4.5, -7.2],
             "dE70_per_vol_pct": [0.33, 0.55, 0.56, 0.40],
-            "sources": "Hamid and Ali [10]; Mustafa [41]; Kopp et al. [40] (11 vol%)"}
+            "sources": "Hamid and Ali [8]; Mustafa [23]; Kopp et al. [22] (11 vol%)"}
 
 
 def measured_base():

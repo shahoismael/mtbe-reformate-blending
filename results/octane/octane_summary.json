@@ -10,7 +10,7 @@
     ],
     "blending_sources": [
       [
-        "Ershov et al. [30], 91 wt% reformate",
+        "Ershov et al. [18], 91 wt% reformate",
         [
           117,
           117
@@ -21,7 +21,7 @@
         ]
       ],
       [
-        "Kopp et al. [40], AQIRP Base 2",
+        "Kopp et al. [22], AQIRP Base 2",
         [
           118,
           118
@@ -32,7 +32,7 @@
         ]
       ],
       [
-        "Hamid and Ali [10], reformate",
+        "Hamid and Ali [8], reformate",
         [
           125,
           130
@@ -40,7 +40,7 @@
         null
       ],
       [
-        "Hamid and Ali [10], Gasoline A",
+        "Hamid and Ali [8], Gasoline A",
         [
           126,
           133
@@ -51,7 +51,7 @@
         ]
       ],
       [
-        "Hamid and Ali [10], Gasoline B",
+        "Hamid and Ali [8], Gasoline B",
         [
           122,
           125
@@ -62,7 +62,7 @@
         ]
       ],
       [
-        "Mustafa [41], 70% reformate",
+        "Mustafa [23], 70% reformate",
         [
           122,
           123
