@@ -1,5 +1,7 @@
 # MTBE-blended Al-Daura catalytic reformate (version 2.0)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24427383.svg)](https://doi.org/10.5281/zenodo.24427383)
+
 Data, open-source Python models and Aspen HYSYS cases for:
 
 **Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: a specification-based simulation study**
@@ -8,7 +10,8 @@ Serwan Ibrahem Abdulkhader, Shaho Ismael Hassen
 Chemical and Petrochemical Engineering Department, College of Engineering, Salahaddin University-Erbil, Kurdistan Region, Iraq
 serwan.abdulkhader@su.edu.krd, shaho.hassen@su.edu.krd
 
-Version 1.0 (HYSYS workflow): https://doi.org/10.5281/zenodo.24427384
+Zenodo (all versions): https://doi.org/10.5281/zenodo.24427383
+Version 2.0: https://doi.org/10.5281/zenodo.24444962 · Version 1.0 (HYSYS workflow): https://doi.org/10.5281/zenodo.24427384
 
 ## What is new in version 2.0
 
@@ -62,7 +65,7 @@ Run all commands from the repository root.
 
 ## Citation
 
-Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, open-source models and Aspen HYSYS cases (Version 2.0) [Data set]. Zenodo.
+Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, open-source models and Aspen HYSYS cases (Version 2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24427383
 
 ## License
 
