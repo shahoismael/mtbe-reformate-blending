@@ -1,0 +1,111 @@
+{
+  "base2_fit": {
+    "R": 100.0,
+    "D86_resid_C": [
+      -3.74,
+      0.0,
+      1.04,
+      0.75,
+      -1.81,
+      0.57,
+      -0.09,
+      -0.91,
+      1.17
+    ],
+    "RVP_resid_kPa": -0.27,
+    "density_resid": 0.61,
+    "classes": {
+      "n-Paraffin": 17.1,
+      "iso-Paraffin": 32.72,
+      "Olefin": 19.39,
+      "Aromatic": 30.79,
+      "Naphthene": 0.0
+    },
+    "optimizer": "Optimization terminated successfully"
+  },
+  "R_blend_without_kopp": 0.7634339770352853,
+  "rows": [
+    [
+      "Quantity",
+      "Base 2 measured",
+      "5B measured",
+      "Measured change",
+      "Predicted change (11.0 vol%)",
+      "Predicted change (10.3 vol%)",
+      "Error at 11.0 vol%"
+    ],
+    [
+      "RVP (kPa)",
+      57.2,
+      59.3,
+      2.07,
+      0.57,
+      0.54,
+      -1.5
+    ],
+    [
+      "T10 (degC)",
+      51.7,
+      51.1,
+      -0.56,
+      -0.4,
+      -0.39,
+      0.15
+    ],
+    [
+      "T30 (degC)",
+      63.9,
+      62.2,
+      -1.67,
+      -2.89,
+      -2.74,
+      -1.23
+    ],
+    [
+      "T50 (degC)",
+      87.2,
+      80.0,
+      -7.22,
+      -10.85,
+      -10.11,
+      -3.63
+    ],
+    [
+      "T70 (degC)",
+      114.4,
+      110.6,
+      -3.89,
+      -4.48,
+      -4.14,
+      -0.59
+    ],
+    [
+      "T90 (degC)",
+      132.2,
+      130.6,
+      -1.67,
+      -0.87,
+      -0.8,
+      0.8
+    ],
+    [
+      "E70 (vol%)",
+      36.1,
+      40.5,
+      4.42,
+      7.98,
+      7.46,
+      3.57
+    ],
+    [
+      "E100 (vol%)",
+      58.5,
+      63.2,
+      4.7,
+      5.11,
+      4.79,
+      0.42
+    ]
+  ],
+  "note": "RVP measured by ASTM D5191 (Kopp Table 8); RVP resolution 0.1 psi = 0.7 kPa"
+}
