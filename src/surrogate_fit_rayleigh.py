@@ -3,7 +3,7 @@
 Same targets, weights and constraints as surrogate_fit.py, but the D86 curve is computed by
 the batch-distillation model of distillation.py (flask + one equilibrium stage with reflux
 ratio R) instead of the API TBP->D86 conversion, and is matched at T10, T20, ..., T90.
-The composition and R are fitted together (R between 0 and 20). The fitted R is the D86
+The composition and R are fitted together (R between 0 and 100). The fitted R is the D86
 apparatus calibration and is used unchanged for all MTBE blends (blend_distillation.py),
 so the base fuel and the blends are computed with one consistent model.
 
@@ -59,7 +59,7 @@ def residuals(v, c, t, rho_offset, m):
     return np.concatenate([np.ravel(x) for x in r])
 
 
-R_BOUNDS = (0.0, 20.0)
+R_BOUNDS = (0.0, 100.0)   # widened from 20: surrogate A reached the old bound
 R_START = 1.0
 
 

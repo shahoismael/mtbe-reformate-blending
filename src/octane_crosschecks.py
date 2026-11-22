@@ -6,7 +6,9 @@
 2. Stratiev et al. (2026), ChemEngineering 10, 128: RON-MON correlation (Fig. 7) and
    RON-aromatics correlations (Fig. 6) for reformates.
 3. Kopp et al. (1993), SAE 930143: AQIRP Base 2 (Table 11) against fuel 5B = 89 vol% Base 2
-   + 11 vol% MTBE (Table 13); blending values back-calculated by volume.
+   + 11 vol% MTBE (recipe, Table 12; Table 13 analysis gives 10.3 lv%); blending values
+   back-calculated by volume at 11 vol%. Values checked against the PDF on 22 Nov 2026.
+   Kopp V, Bones C, Doerr D, Ho S, et al. (1993) SAE Technical Paper 930143, doi 10.4271/930143.
 
 Run: python scripts/octane_crosschecks.py   (Python 3, no extra packages)
 """

@@ -1,5 +1,8 @@
 """E70 rise per vol% MTBE in measured blends (Table 7, note a).
-Hamid and Ali (1995), Table VI; Mustafa (1989), Table 6 (T20 = T10 + reported T20-T10)."""
+Hamid and Ali (1995), Table VI; Mustafa (1989), Table 6 (T20 = T10 + reported T20-T10).
+Mustafa B (1989) Sci Contrib Oil Gas 12(1):30-35, doi 10.29017/SCOG.12.1.1141. Values checked
+against the PDF on 22 Nov 2026. Note: Table 6 blends are MGBT (MTBE + TEL, held at 87 RON;
+TEL 0.85 -> 0 cc/USG), base = 70 vol% reformate + 30 vol% light naphtha (Indonesia)."""
 import numpy as np
 from scipy.interpolate import PchipInterpolator, CubicSpline
 def e70(vols, temps, kind):

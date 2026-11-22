@@ -1,15 +1,15 @@
 {
   "surrogate": "A",
-  "R_blend": 0.6997,
+  "R_blend": 0.691,
   "fitted_responses": [
     "dT50",
     "dE70"
   ],
-  "score": 0.0,
+  "score": 0.002,
   "model_response": {
-    "dT10": -4.582,
-    "dT50": -7.917,
-    "dE70": 0.46
+    "dT10": -4.607,
+    "dT50": -8.008,
+    "dE70": 0.463
   },
   "target": {
     "dT10": -1.0333333333333334,

@@ -1,6 +1,6 @@
 ﻿Quantity,Measured (range),"Model, calibrated reflux (A / B)","Model, no reflux (A / B)","Model, base-fit reflux (A / B)",Fitted in calibration
-ΔT10 at 10 vol% (°C),-1.5 to -0.6,-4.58 / -4.5,-2.86 / -2.63,-5.45 / -5.38,no
-ΔT50 at 10 vol% (°C),-12.0 to -4.5,-7.92 / -7.89,-12.42 / -12.89,-6.18 / -6.14,yes
-ΔE70 per vol% MTBE,0.33 to 0.56,0.46 / 0.46,0.234 / 0.213,0.936 / 0.885,yes
-"Blending RVP of MTBE (kPa), surrogate A",55 to 76 (Table 5 sources),63.7,ideal 56.3,UNIFAC 71.9,no
-"Blending RVP of MTBE (kPa), surrogate B",55 to 76 (Table 5 sources),63.3,ideal 56.2,UNIFAC 72.7,no
+ΔT10 at 10 vol% (°C),-1.5 to -0.6,-4.61 / -4.5,-2.86 / -2.63,-5.77 / -5.38,no
+ΔT50 at 10 vol% (°C),-12.0 to -4.5,-8.01 / -7.89,-12.37 / -12.89,-6.19 / -6.14,yes
+ΔE70 per vol% MTBE,0.33 to 0.56,0.463 / 0.46,0.235 / 0.213,0.955 / 0.885,yes
+"Blending RVP of MTBE (kPa), surrogate A","54 to 76 (Ershov, Mustafa, Kopp)",63.5,ideal 56.2,UNIFAC 69.9,no
+"Blending RVP of MTBE (kPa), surrogate B","54 to 76 (Ershov, Mustafa, Kopp)",63.1,ideal 56.0,UNIFAC 70.7,no

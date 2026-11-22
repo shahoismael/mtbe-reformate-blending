@@ -74,7 +74,7 @@ def main():
         val.append([name, f"{min(m)} to {max(m)}", f("nrtl_R_blend"), f("nrtl_R_0"), f("nrtl_R_calibrated"), fitted])
     for s in ("A", "B"):
         d = json.load(open(os.path.join(ROOT, f"results/vapor_pressure/vp_{s}_fitted_summary.json")))
-        val.append([f"Blending RVP of MTBE (kPa), surrogate {s}", "55 to 76 (Table 5 sources)",
+        val.append([f"Blending RVP of MTBE (kPa), surrogate {s}", "54 to 76 (Ershov, Mustafa, Kopp)",
                     d["nrtl"]["blending_RVP_MTBE_20vol_kPa"], f"ideal {d['ideal']['blending_RVP_MTBE_20vol_kPa']}",
                     f"UNIFAC {d['unifac']['blending_RVP_MTBE_20vol_kPa']}", "no"])
     with open(os.path.join(OUT, "table5_validation.csv"), "w", newline="", encoding="utf-8-sig") as f:

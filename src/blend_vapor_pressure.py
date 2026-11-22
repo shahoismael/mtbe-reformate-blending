@@ -34,7 +34,7 @@ def surrogate(tag):
     if kind == "original":
         v = [c["final_vol_pct"] for c in sur]
     else:
-        fit = json.load(open(os.path.join(ROOT, "results/surrogate_fit", f"surrogate_{which}_fit.json")))
+        fit = json.load(open(os.path.join(ROOT, "results/surrogate_fit", f"surrogate_{which}_rayleigh_fit.json")))  # same composition as the D86 model
         v = [fit["fitted_vol_pct"][n] for n in names]
     return names, classes, np.array(v, float)
 

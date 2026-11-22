@@ -2,8 +2,8 @@
 
   fig1_d86_curves       measured base D86 curve and delta-corrected 10 and 20 vol% MTBE blends
   fig2_volatility       (a) RVP, (b) E70 and E100, (c) DI against MTBE content
-  fig3_windows          MTBE windows with octane uncertainty and distillation range
-  fig4_validation       model responses at 10 vol% MTBE against published measurements
+  fig4_windows          MTBE windows with octane uncertainty and distillation range
+  fig3_validation       model responses at 10 vol% MTBE against published measurements
 
 Main case: surrogate A, NRTL with fitted MTBE parameters, reflux calibrated on measured blends.
 Bands: range over the other model settings and surrogate B.
@@ -153,7 +153,7 @@ def fig3():
     ax.text(o2, len(rows) - 0.4, f"O$_2$ 3.7 wt% ({o2:.1f} vol%)", ha="center", va="bottom", fontsize=7)
     ax.set_yticks(ys); ax.set_yticklabels(labels); ax.set_xlim(0, 25)
     ax.set_xlabel("MTBE (vol%)")
-    save(fig, "fig3_windows")
+    save(fig, "fig4_windows")
 
 
 # ------------------------------------------------------------------ figure 4
@@ -176,7 +176,7 @@ def fig4():
     h, l = axs[0].get_legend_handles_labels()
     fig.legend(h, l, loc="upper center", ncol=4, bbox_to_anchor=(0.5, 1.06))
     fig.tight_layout(w_pad=2.0)
-    save(fig, "fig4_validation")
+    save(fig, "fig3_validation")
 
 
 if __name__ == "__main__":

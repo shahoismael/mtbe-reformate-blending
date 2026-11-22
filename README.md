@@ -1,4 +1,4 @@
-# MTBE-blended Al-Daura catalytic reformate (version 2.0)
+# MTBE-blended Al-Daura catalytic reformate (version 2.1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24427383.svg)](https://doi.org/10.5281/zenodo.24427383)
 
@@ -12,6 +12,13 @@ serwan.abdulkhader@su.edu.krd, shaho.hassen@su.edu.krd
 
 Zenodo (all versions): https://doi.org/10.5281/zenodo.24427383
 Version 2.0: https://doi.org/10.5281/zenodo.24444962 · Version 1.0 (HYSYS workflow): https://doi.org/10.5281/zenodo.24427384
+
+## What is new in version 2.1
+
+- One fitted surrogate composition (`surrogate_<A|B>_rayleigh_fit.json`) is used for both vapour pressure and distillation.
+- Reflux-ratio bound in the surrogate fit widened from 20 to 100 (surrogate A no longer at the bound; R = 37.2).
+- Calibration and blending data checked against Hamid and Ali (1995), Mustafa (1989), Kopp et al. (1993) and Ershov et al. (2020).
+- Figures renumbered: `fig3_validation`, `fig4_windows`.
 
 ## What is new in version 2.0
 
@@ -65,7 +72,7 @@ Run all commands from the repository root.
 
 ## Citation
 
-Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, open-source models and Aspen HYSYS cases (Version 2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24427383
+Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, open-source models and Aspen HYSYS cases (Version 2.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24427383
 
 ## License
 

@@ -36,7 +36,7 @@
       "Performance (E100, DI)",
       11.0,
       "E100 >= 46 vol% / DI <= 1250 F (main case)",
-      "all cases: E100 9-14, DI 5-9",
+      "all cases: E100 9-14, DI 6-9",
       20.8,
       "oxygen 3.7 wt%"
     ]
@@ -44,16 +44,16 @@
   "checks": {
     "oxygen_limit_vol_pct": 20.77,
     "RVP_at_20vol_kPa": {
-      "A_ideal": 50.46,
-      "A_unifac": 53.57,
-      "A_nrtl": 51.95,
-      "B_ideal": 50.44,
-      "B_unifac": 53.75,
-      "B_nrtl": 51.86
+      "A_ideal": 50.44,
+      "A_unifac": 53.19,
+      "A_nrtl": 51.89,
+      "B_ideal": 50.4,
+      "B_unifac": 53.33,
+      "B_nrtl": 51.81
     },
-    "RVP_max_kPa": 53.75,
+    "RVP_max_kPa": 53.33,
     "RVP_summer_max_kPa": 60,
-    "RVP_margin_kPa": 6.25,
+    "RVP_margin_kPa": 6.67,
     "density_at_O2_limit_kg_m3_ideal_mixing": 759.1,
     "aromatics_base_known_unknown": [
       34.65,
@@ -65,7 +65,7 @@
     "olefins_at_0vol": 8.46,
     "olefins_limit": 18,
     "E70_main_case_at_20vol": {
-      "A": 19.09,
+      "A": 19.11,
       "B": 19.15
     },
     "E70_first_vol_ge_20_all_cases": [

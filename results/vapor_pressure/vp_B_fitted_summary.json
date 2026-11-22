@@ -1,23 +1,23 @@
 {
   "ideal": {
-    "RVP_base_model_kPa": 49.02,
-    "dRVP_20vol_kPa": 1.44,
-    "RVP_20vol_corrected_kPa": 50.44,
-    "blending_RVP_MTBE_20vol_kPa": 56.2,
-    "dTVP45_20vol_kPa": 1.68
+    "RVP_base_model_kPa": 48.94,
+    "dRVP_20vol_kPa": 1.4,
+    "RVP_20vol_corrected_kPa": 50.4,
+    "blending_RVP_MTBE_20vol_kPa": 56.0,
+    "dTVP45_20vol_kPa": 1.69
   },
   "unifac": {
-    "RVP_base_model_kPa": 49.09,
-    "dRVP_20vol_kPa": 4.75,
-    "RVP_20vol_corrected_kPa": 53.75,
-    "blending_RVP_MTBE_20vol_kPa": 72.7,
-    "dTVP45_20vol_kPa": 5.99
+    "RVP_base_model_kPa": 49.67,
+    "dRVP_20vol_kPa": 4.33,
+    "RVP_20vol_corrected_kPa": 53.33,
+    "blending_RVP_MTBE_20vol_kPa": 70.7,
+    "dTVP45_20vol_kPa": 5.49
   },
   "nrtl": {
-    "RVP_base_model_kPa": 49.02,
-    "dRVP_20vol_kPa": 2.86,
-    "RVP_20vol_corrected_kPa": 51.86,
-    "blending_RVP_MTBE_20vol_kPa": 63.3,
-    "dTVP45_20vol_kPa": 3.57
+    "RVP_base_model_kPa": 48.94,
+    "dRVP_20vol_kPa": 2.81,
+    "RVP_20vol_corrected_kPa": 51.81,
+    "blending_RVP_MTBE_20vol_kPa": 63.1,
+    "dTVP45_20vol_kPa": 3.56
   }
 }
