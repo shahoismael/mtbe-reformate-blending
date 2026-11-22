@@ -1,10 +1,10 @@
-# MTBE-blended Al-Daura catalytic reformate (version 2.1)
+# MTBE blending windows for an Iraqi catalytic reformate (version 2.1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24427383.svg)](https://doi.org/10.5281/zenodo.24427383)
 
 Data, open-source Python models and Aspen HYSYS cases for:
 
-**Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: a specification-based simulation study**
+**MTBE blending windows for an Iraqi catalytic reformate as summer gasoline: calibrated volatility models and octane uncertainty**
 
 Serwan Ibrahem Abdulkhader, Shaho Ismael Hassen
 Chemical and Petrochemical Engineering Department, College of Engineering, Salahaddin University-Erbil, Kurdistan Region, Iraq
@@ -72,7 +72,7 @@ Run all commands from the repository root.
 
 ## Citation
 
-Abdulkhader, S. I., & Hassen, S. I. (2026). Suitability of MTBE-blended Al-Daura catalytic reformate as a finished gasoline: data, open-source models and Aspen HYSYS cases (Version 2.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24427383
+Abdulkhader, S. I., & Hassen, S. I. (2026). MTBE blending windows for an Iraqi catalytic reformate as summer gasoline: data, open-source models and Aspen HYSYS cases (Version 2.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24427383
 
 ## License
 
