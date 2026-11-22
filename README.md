@@ -11,7 +11,7 @@ Chemical and Petrochemical Engineering Department, College of Engineering, Salah
 serwan.abdulkhader@su.edu.krd, shaho.hassen@su.edu.krd
 
 Zenodo (all versions): https://doi.org/10.5281/zenodo.24427383
-Version 2.0: https://doi.org/10.5281/zenodo.24444962 · Version 1.0 (HYSYS workflow): https://doi.org/10.5281/zenodo.24427384
+Version 2.1: https://doi.org/10.5281/zenodo.24447230 · Version 2.0: https://doi.org/10.5281/zenodo.24444962 · Version 1.0 (HYSYS workflow): https://doi.org/10.5281/zenodo.24427384
 
 ## What is new in version 2.1
 
